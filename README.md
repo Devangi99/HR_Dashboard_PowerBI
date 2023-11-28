@@ -12,11 +12,12 @@ Utilized Power Query to transform and load the dataset, ensuring it is in a suit
 
 ## Adressing requirements
 Implemented DAX (Data Analysis Expressions) measures to address crucial data requirements:
-   - Calculated the percentage of employees present during the given period (% present).
+   - Calculated the percentage of employees present during the given period.
    - Analyzed the percentage of employees working from home.
    - Determined the percentage of employees on sick leave.
    - Computed the percentage of employees on paid leave.
    - Evaluated the percentage of employees on leave without pay.
+     
 ![](images/dax.png)
 
 ## Dashboard creation
